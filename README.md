@@ -1,9 +1,11 @@
 # Image classification of cats:
 
-This project was made as a modified version of the final project in my Coursera NN Certification.  
+This project was made as a modified version of the final project in my Coursera NN Certification. The project is a Neural Network written in python from scratch. We can specify the hyperparameters for the neural network dynamically. The neural network will classify pictures as cats or non-cats.
 
-- This is a Neural Network written in python from scratch. It classifies cat and non-cat pictures.
-- The code is present in the [NN_Python_cats.ipynb](https://github.com/abhi094/Educational-Projects/blob/master/Neural%20Networks%20in%20Python/NN_Python_cats.ipynb) notebook.
+### Running the script :
+
+1. Find any images that you want to test with and store it in ```./src/training/images``` folder
+2. Run ```./src/training/train.py``` with the following argument :
 
 ### To Do :
 1. code restructuring
