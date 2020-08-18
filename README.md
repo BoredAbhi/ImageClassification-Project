@@ -5,9 +5,9 @@ This project was made as a modified version of the final project in my Coursera 
 ### Running the script :
 
 1. Find any images that you want to test with and store it in ```./src/training/images``` folder
-2. Run ```./src/training/train.py``` with the following argument : ```--image <your image name with extention>```
+2. Run ```./src/training/train.py``` with the following argument : ```--image <your_image_name_with_extention>```
 
-Example : ``` python train.py --image another_cat.jpg```
+**Example :** ``` python train.py --image another_cat.jpg```
 
 ### To Do :
 1. code restructuring
