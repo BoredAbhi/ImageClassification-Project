@@ -10,9 +10,9 @@ This project was made as a modified version of the final project in my Coursera 
 **Example :** ``` python train.py --image another_cat.jpg```
 
 ### To Do :
-1. code restructuring
-2. make a web app with Flask api and 
-3. make a Dash front end
+1. code cleaning & restructuring
+2. implement Flask API  
+3. make a Dash front-end
 4. Containerize with Docker and deploy in AWS.
 
 ![cat_image](https://github.com/abhi094/Educational-Projects/blob/master/Neural%20Networks%20in%20Python/images/cat.png)
