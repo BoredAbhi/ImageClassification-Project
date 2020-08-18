@@ -15,8 +15,9 @@ python train.py --image another_cat.jpg
 
 ### To Do :
 1. code cleaning & restructuring ✔
-2. implement Flask API 
-3. make a Dash front-end
-4. Containerize with Docker and deploy in AWS.
+2. add more hyperparameter options
+3. implement Flask API 
+4. make a Dash front-end
+5. Containerize with Docker and deploy in AWS.
 
 ![cat_image](https://github.com/abhi094/Educational-Projects/blob/master/Neural%20Networks%20in%20Python/images/cat.png)
