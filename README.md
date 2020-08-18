@@ -13,8 +13,8 @@ python train.py --image another_cat.jpg
 ```
 
 ### To Do :
-1. code cleaning & restructuring
-2. implement Flask API  
+1. code cleaning & restructuring ✔
+2. implement Flask API 
 3. make a Dash front-end
 4. Containerize with Docker and deploy in AWS.
 
