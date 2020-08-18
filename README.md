@@ -12,6 +12,7 @@ This project was made as a modified version of the final project in my Coursera 
 python train.py --image another_cat.jpg
 ```
 
+
 ### To Do :
 1. code cleaning & restructuring ✔
 2. implement Flask API 
